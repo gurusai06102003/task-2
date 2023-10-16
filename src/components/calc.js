@@ -1,4 +1,4 @@
-import 'C:/xampp/htdocs/MERN/node/task2/src/App.css';
+import '../App.css';
 import {Component} from 'react';
 
 class calc extends Component{
